@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Javier Monjaraz, I'm a software engineer with a strong background in backend development and a passion for building scalable and efficient web applications. My expertise includes designing and implementing REST APIs, optimizing database performance, and ensuring the security and reliability of web services. 
+I'm a software engineer with a strong background in backend development and a passion for building scalable and efficient web applications. My expertise includes designing and implementing REST APIs, optimizing database performance, and ensuring the security and reliability of web services. 
 
 ### 🖥️ Programming Languages & Others
 
