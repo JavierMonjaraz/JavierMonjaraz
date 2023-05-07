@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi there 👋
+I'm Javier Monjaraz, I'm a software engineer with a strong background in backend development and a passion for building scalable and efficient web applications. My expertise includes designing and implementing REST APIs, optimizing database performance, and ensuring the security and reliability of web services. 
 
-<!--
-**JavierMonjaraz/JavierMonjaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Programming Languages & Others
 
-Here are some ideas to get you started:
+```json
+{
+  "backend": ["Java", "Python", "Node.js"],
+  "frontend": ["React", "Next.js", "HTML/CSS/JS"],
+  "infrastructure": ["Terraform", "Docker", "Kubernetes"],
+  "Cloud": ["AWS", "Microsoft azure"]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning:
+
+- Advanced React patterns and practices
+- AWS services like Lambda and API Gateway
+
+### 💬 Ask Me About:
+
+- Building scalable backend architectures
+- Optimizing database performance
+- Developing web applications with React and Next.js
+- Automating cloud infrastructure using Terraform
+
+### 📫 How to Reach Me:
+
+- Email: javier_monjaraz@outlook.com
+- LinkedIn: https://www.linkedin.com/in/javier-monjaraz
+
+### ⚡ Fun Fact:
+I recently earned my AWS Cloud Practitioner certification (CLF-C01) and I am excited to continue learning and exploring cloud technologies.
