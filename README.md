@@ -5,7 +5,7 @@ I'm a software engineer with a strong background in backend development and a pa
 
 ```json
 {
-  "backend": ["Java", "Python", "Node.js"],
+  "backend": ["Java", "Python", "Javascript"],
   "frontend": ["React", "Next.js", "HTML/CSS/JS"],
   "infrastructure": ["Terraform", "Docker", "Kubernetes"],
   "Cloud": ["AWS", "Microsoft azure"]
@@ -28,6 +28,3 @@ I'm a software engineer with a strong background in backend development and a pa
 
 - Email: javier_monjaraz@outlook.com
 - LinkedIn: https://www.linkedin.com/in/javier-monjaraz
-
-### ⚡ Fun Fact:
-I recently earned my AWS Cloud Practitioner certification (CLF-C01) and I am excited to continue learning and exploring cloud technologies.
